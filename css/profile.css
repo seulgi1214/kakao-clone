@@ -5,8 +5,8 @@
 .profile .profile_header {
   height: 80vh;
   background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1135824/580/386/m1/fpnw/wm0/cover-.jpg?1459430243&s=37e24e87e07fccff592af0d4d2ccf2f1");
-  backgrouns-size: cover;
-  backgrouns-position: center center;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
   position: relative;
   top: -60px;
